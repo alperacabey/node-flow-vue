@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Data Generator",
+    "type": "source",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 2,
+    "name": "Case Switch Data (Start)",
+    "type": "manipulator",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 3,
+    "name": "Cluster Assigner",
+    "type": "predictor",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 4,
+    "name": "PDF Parser",
+    "type": "source",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 5,
+    "name": "Bisar",
+    "type": "manipulator",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 6,
+    "name": "Tess4J",
+    "type": "manipulator",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 7,
+    "name": "BERT Predictor",
+    "type": "predictor",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 8,
+    "name": "Anonymization",
+    "type": "manipulator",
+    "input": [],
+    "output": []
+  },
+  {
+    "id": 9,
+    "name": "Customer Distributions",
+    "type": "source",
+    "input": [],
+    "output": []
+  }
+]

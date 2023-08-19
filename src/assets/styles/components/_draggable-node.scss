@@ -1,0 +1,21 @@
+.draggable-node {
+  position: absolute;
+  color: black;
+  cursor: grab;
+
+  border: 1px solid #ccc;
+  width: 150px;
+  height: 50px;
+
+  &--source {
+    background-color: orange;
+  }
+
+  &--manipulator {
+    background-color: yellow;
+  }
+
+  &--predictor {
+    background-color: green;
+  }
+}
